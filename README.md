@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhmanisha1706&label=Profile%20views&color=0e75b6&style=flat" alt="singhmanisha1706" /> </p>
 
-- 💬 Ask me about **Machine Learning Frameworks, Analytics, CS Fundamentals**
+- 💬 Ask me about **Machine Learning Frameworks, Artificial Intelligence, Data Analytics, CS Fundamentals**
 
 - 👨‍💻 All of my projects are available at [https://manishasingh.lovable.app/](https://manishasingh.lovable.app/)
 
